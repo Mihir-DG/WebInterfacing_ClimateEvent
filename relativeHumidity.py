@@ -63,5 +63,3 @@ def plot_relHumidity(err):
 			index_levelLabel += 1
 		dayLabel += 1
 	return 0.
-
-plot_relHumidity(0.)
