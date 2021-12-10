@@ -70,7 +70,7 @@ We strongly believe that autoClim's strength will lie in the diversity of the pr
 														<li>Coverage: EATM - Entire Atmosphere, Global, 7 days</li>
 													</ul>
   <br/>
-													<li><b>Skin Temperature (K) *</b></li>
+													<li><b>Skin Temperature (K) </b></li>
 													<ul>
 														<li>Resolution: T62 Gaussian grid with 194x92 grid points</li>
 														<li>Coverage: Global, 7 days</li>
