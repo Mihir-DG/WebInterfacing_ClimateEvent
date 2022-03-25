@@ -8,6 +8,7 @@ from precipitationRate import *
 from relativeHumidity import *
 from specificHumidity import *
 from cloudCover import *
+from skinTemperature import *
 
 from matplotlib import pyplot as plt
 import numpy as np
