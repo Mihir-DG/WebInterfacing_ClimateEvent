@@ -3,7 +3,7 @@
 
 #### Making Climate Data Pretty Again! 
 
-Check out our LinkedIn Page <<https://www.linkedin.com/company/80185122>>
+<<https://www.linkedin.com/company/80185122>>
 
 *autoClim is currently under development, and many features that have been mentioned here may not be available. They've been marked with an asterisk(\*) under the Output Categories section for your convenience.*
 
