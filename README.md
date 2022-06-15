@@ -12,7 +12,6 @@
 ### Authors:
 - Mihir Dasgupta <<dasguptamihir10@gmail.com>>
 - Abhijith Pradeep <<abhijithp20@gmail.com>>
-- Vedant Malhotra
 
 It's exceedingly common to require reliable data when studying a specific climate event, like a tornado, for example. Significant local deviations from climatological normals, (a 30-year average of a weather variable for a given time of year, eg. JJA) can help us improve our understanding of these events. Faster, more accurate, and stronger forecasting is only attainable through an improved understanding of the mean climate system from which weather stems.
 
